@@ -1,7 +1,8 @@
 # ExoPlayer Extension Silk
 
-**支持SILK格式的ExoPlayer2拓展，另外也支持微信、QQ语音slk文件播放（本身就是SILK格式，多了个STX的字符）。**
+[![](https://jitpack.io/v/classops/exosilk.svg)](https://jitpack.io/#classops/exosilk)
 
+**支持SILK格式的ExoPlayer2拓展，另外也支持微信、QQ语音slk文件播放（本身就是SILK格式，多了个STX的字符）。**
 
 ### 使用方法
 
