@@ -54,4 +54,5 @@ dependencies {
     implementation 'com.google.android.exoplayer:exoplayer-dash:2.17.1'
     implementation 'com.google.android.exoplayer:exoplayer-transformer:2.17.1'
     implementation 'com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1'
+//    implementation 'com.github.classops:exosilk:a18c316a57'
 }

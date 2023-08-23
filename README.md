@@ -8,6 +8,22 @@
 库里实现了Silk的Extractor和Render，用于解码播放。
 创建Player时，传入自定义的 ExtractorsFactory 和 RenderFactory, 和其他音频一样使用播放即可。
 
+添加JitPack仓库
+```agsl
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+添加依赖
+```agsl
+dependencies {
+    implementation 'com.github.classops:exosilk:1.0'
+}
+```
+
 #### 1. 添加自定义的ExtractorsFactory，添加 SilkExtractor
 ```kotlin
 class MyExtractorsFactory : ExtractorsFactory {
