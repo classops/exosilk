@@ -110,3 +110,11 @@ val player = ExoPlayer.Builder(
 1. 注册 Extractor 完成原始帧的提取
 2. 添加 JNI SILK 库，注册 Decoder 实现 silk 的帧解码
 3. 添加 Render 完成 Decoder 的使用，并注册生效
+
+### 来自
+
+本库来自个人的APP 我的语音包，功能是 QQ、微信语音替换变声，可以下载体验：
+
+**[我的语音包](https://www.pgyer.com/UcZQ)**
+
+[![我的语音包](https://cdn-app-icon.pgyer.com/0/1/b/d/c/01bdc2f9e15b2a308fc1f7e0b1cc1955?x-oss-process=image/resize,m_lfit,h_256,w_256/format,png)](https://www.pgyer.com/UcZQ)
